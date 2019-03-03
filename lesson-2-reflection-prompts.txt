@@ -25,6 +25,9 @@ a new feature.
 
 How do the diagrams help you visualize the branch structure?
 
+Allow you to see how to get back to a commit, which cannot be reached, and see how
+they relate to each other.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
