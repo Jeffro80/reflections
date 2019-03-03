@@ -31,5 +31,9 @@ they relate to each other.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+It combine the commit history of the two branches, so you can go back along either
+branch to view changes that have been made. Shown in diagram so that can see the
+change history along each branch.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
