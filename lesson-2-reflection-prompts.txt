@@ -13,6 +13,9 @@ other files before adding them and making one commit.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Checking that the files that are staged have only been modified to address one
+logical change. Only place files in the staging area that relate to this change.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
